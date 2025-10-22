@@ -1,9 +1,9 @@
 
 ## 📱 Screenshots
 
-| Splash Screen | Main Screen |
-|:--------------:|:------------:|
-| <img width="300" alt="Splash Screen" src="https://github.com/user-attachments/assets/c87c1a07-9c4f-4ae0-95e9-94277d65930c" /> | <img width="300" alt="Main Screen" src="https://github.com/user-attachments/assets/cfec0cf8-404e-4aca-840b-17a3c6dc5738" /> |
+| Splash Screen | Game Interface | Game Interface 2 |
+|:--------------:|:------------:|:------------:|
+| <img width="300" alt="Splash Screen" src="/basesplash.png" /> | <img width="300" alt="Game Interface" src="/images/basestack1.jpg" /> | <img width="300" alt="Game Interface 2" src="/images/basestack2.png" /> |
 
 ---
 
